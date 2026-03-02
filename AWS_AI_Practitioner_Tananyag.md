@@ -825,6 +825,42 @@
 - **Képgenerálás, szöveggenerálás, beszédgenerálás**: Valós idejű tartalom-előállítás
 - **Multimodális AI**: Szöveg + kép + hang egyidejű feldolgozása
 
+## AI technológiai képességek
+
+| Képesség | Leírás |
+|----------|--------|
+| **Képgenerálás** | Szöveges leírásból valósághű képeket állít elő másodpercek alatt (marketing, szórakoztatás, design) |
+| **Szöveggenerálás** | Emberszerű szöveg automatikus előállítása (e-mailek, jelentések, ügyfélszolgálat, marketing) |
+| **Beszédgenerálás és -felismerés** | Természetes emberi beszéd létrehozása + beszélt szavak értelmezése (virtuális asszisztensek, akadálymentesítés) |
+| **Multimodális AI** | Szöveg, kép és hang egyidejű integrálása és értelmezése → fejlett valós idejű elemzés (videóelemzés, önvezető járművek) |
+
+## AI iparági transzformáció
+
+| Iparág | AI alkalmazás |
+|--------|--------------|
+| **Tartalomajánlás** | Streamingszolgáltatások (Netflix, Spotify) személyre szabott ajánlásai felhasználói preferenciák alapján |
+| **Személyre szabott vásárlás** | E-kereskedelmi platformok böngészési előzmények alapján adnak termékajánlásokat |
+| **Egészségügy** | Fejlett diagnosztika, kezelési tervek, betegmonitorozás – orvosi képelemzés korai betegségfelismerésre |
+| **Forgalomirányítás** | Valós idejű adatelemzés, forgalmi minták előrejelzése, alternatív útvonalak → csökkentett torlódás és kibocsátás |
+| **Természetvédelem** | Vadon élő állatok monitorozása, erdőirtás elleni küzdelem, orvvadászat megelőzése AI-vezérelt drónokkal és műholdképekkel |
+
+## AI üzleti előnyök
+
+| Előny | Leírás |
+|-------|--------|
+| **Intelligens automatizálás** | Számlák, dokumentumok automatikus beolvasása, osztályozása, hibadetektálás – minimális emberi beavatkozással |
+| **Termelékenység növelése** | Kritikus információk azonnali, kontextusban történő elérése (pl. betegnyilvántartás, járatadatok keresése) |
+| **Komplex problémák megoldása** | Hatalmas adathalmazok elemzése mintafelismeréshez (prediktív karbantartás, gyógyszerkutatás) |
+| **Új ügyfélélmények** | Személyre szabott, valós idejű ajánlások és megoldások ügyfélprofil-adatok alapján (pl. egyedi utazási tervek) |
+
+## AI implementáció kihívásai
+
+| Kihívás | Leírás |
+|---------|--------|
+| **AI irányítás (governance)** | Adatirányítási politikák betartása, szabályozási előírások és adatvédelmi törvények – a szervezet felelős az ügyféladatokért |
+| **Technikai nehézségek** | Hatalmas számítási erőforrás-igény a mélytanuláshoz; robusztus infrastruktúra szükséges; a skálázás költséges lehet |
+| **Adatkorlátok** | Elfogulatlan AI betanításához hatalmas mennyiségű, jó minőségű adatra van szükség; elegendő tárolókapacitás és adatminőség-kezelés elengedhetetlen |
+
 ## AI alkalmazási architektura – 3 réteg
 1. **Adatréteg**: Adatok előkészítése az AI alkalmazásokhoz
 2. **Modellréteg**: Alapmodellek (FM), LLM-ek, ML modellek – testreszabás belső adatokkal
